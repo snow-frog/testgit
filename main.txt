@@ -1,7 +1,5 @@
 this is a test
-<<<<<<< .merge_file_a02680
 feature 1
 feature 2
-=======
 feature3
->>>>>>> .merge_file_a10900
+feature4
